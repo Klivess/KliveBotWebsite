@@ -1,5 +1,5 @@
-#Klives Management Website
+<h1 align="center">Klives Management Website</h1>
 
-A website which interfaces with my bot Omnipotent(https://github.com/Klivess/Omnipotent) to create a dashboard where I can manage my bots and services.
+<p align="center">A website which interfaces with my bot <a href="https://github.com/Klivess/Omnipotent">Omnipotent</a> to create a dashboard where I can manage my bots and services.</p>
 
-Uses React and Sass styling.
+<p align="center">Uses React and Sass styling.</p>
